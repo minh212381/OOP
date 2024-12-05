@@ -7,7 +7,6 @@ package change_base_fn;
 
 /**
  *
- * @author hoang.dat
  */
 public class ChangeBase {
 
