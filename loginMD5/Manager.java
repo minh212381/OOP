@@ -17,7 +17,6 @@ import java.util.Calendar ; // Add this import statement
 
 /**
  *
- * @author hoang.dat
  */
 public class Manager {
 
