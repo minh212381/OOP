@@ -11,7 +11,6 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author hoang.dat
  */
 public class GetData {
 
