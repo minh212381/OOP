@@ -7,7 +7,6 @@ package lab_shape;
 
 /**
  *
- * @author Raymond
  */
 public abstract class Shape {
     public abstract double getArea();
