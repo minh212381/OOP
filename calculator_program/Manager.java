@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 /**
  *
- * @author hoang.dat
  */
 public class Manager {
 
