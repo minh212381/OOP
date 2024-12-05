@@ -9,7 +9,6 @@ import java.lang.Math;
 import static java.lang.Math.sqrt;
 /**
  *
- * @author Raymond
  */
 public class Triangle extends Shape {
     private double sideA;
