@@ -7,7 +7,6 @@ package lab_shape;
 
 /**
  *
- * @author Raymond
  */
 public class Rectangle extends Shape{
     private double width;
