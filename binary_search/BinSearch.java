@@ -10,7 +10,6 @@ import java.util.*;
 
 /**
  *
- * @author hoang.dat
  */
 public class BinSearch {
 
