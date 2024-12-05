@@ -10,7 +10,6 @@ import java.math.BigInteger;
 
 /**
  *
- * @author hoang.dat
  */
 public class Convert {
 
