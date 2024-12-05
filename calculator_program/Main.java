@@ -7,7 +7,6 @@ package calculator;
 
 /**
  *
- * @author hoang.dat
  */
 public class Main {
 
